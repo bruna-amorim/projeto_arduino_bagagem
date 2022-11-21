@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=oOWuq_Nazig arduino primeiro passos
+
+https://www.youtube.com/watch?v=sIBDnwmkhRE Veja como funciona o Sensor Biométrico no Arduino
+
+https://www.youtube.com/watch?v=jE-k96TLxAo Como Usar Buzzer no Arduino
+
+https://www.youtube.com/watch?v=ZFhkmwF0gLo programando no nod red
